@@ -1,2 +1,2 @@
-# Simple_User_Info
+# SimplecUser Information Display
 Simple User Information Display
